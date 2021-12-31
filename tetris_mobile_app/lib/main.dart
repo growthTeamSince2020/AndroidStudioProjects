@@ -13,7 +13,7 @@ void main() => runApp(
   ),
 );
 
-// MyApp： 自分で作成したWidget_
+// MyApp： 自分で作成したWidget____
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

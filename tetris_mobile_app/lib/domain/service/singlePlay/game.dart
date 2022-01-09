@@ -5,7 +5,7 @@ import '../common/tetrisLogic/block.dart';
 import '../common/tetrisLogic/sub_block.dart';
 import '../../state/tetrisData.dart';
 import 'dart:math';
-import 'package:audioplayers/audio_cache.dart';
+//import 'package:audioplayers/audio_cache.dart';
 import 'package:audioplayers/audioplayers.dart'; // AudioPlayerインスタンスを使う場合
 
 
